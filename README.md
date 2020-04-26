@@ -21,3 +21,7 @@
 
 > * [2D Mapping](https://drive.google.com/file/d/1yudVr1v6SSkGbeQNmc6vH3MksN7I7tfr/view?usp=sharing)
 > * [3D Mapping](https://drive.google.com/file/d/1FI-Z8X2QCpnJtaxZfBwpJiBw6FrsSPsv/view?usp=sharing)
+
+ ## FAQ
+ 
+ >   * For any doubts and clarification contact [me](https://www.linkedin.com/in/rajith-rahul-kumar-a55398120/).
