@@ -14,7 +14,7 @@
 > * Matplotlib 
 
 ## Image Snippets :
-
+![image](https://drive.google.com/uc?export=view&id=1A6OFR4uvIXJW1bOay3sb0UK7kaJEI3Wb)
 > * [2D Mapping](https://drive.google.com/file/d/1LWp_rVuMxzUJH_ktsICXolQ81RMAvLxj/view?usp=sharing)
 > * [3D Mapping](https://drive.google.com/file/d/1A6OFR4uvIXJW1bOay3sb0UK7kaJEI3Wb/view?usp=sharing)
 
