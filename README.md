@@ -14,8 +14,8 @@
 
 ## Image Snippets :
 
-> * [2D Mapping](https://drive.google.com/file/d/1yudVr1v6SSkGbeQNmc6vH3MksN7I7tfr/view?usp=sharing)
-> * [3D Mapping](https://drive.google.com/file/d/1FI-Z8X2QCpnJtaxZfBwpJiBw6FrsSPsv/view?usp=sharing)
+> * [2D Mapping](https://drive.google.com/file/d/1LWp_rVuMxzUJH_ktsICXolQ81RMAvLxj/view?usp=sharing)
+> * [3D Mapping](https://drive.google.com/file/d/1A6OFR4uvIXJW1bOay3sb0UK7kaJEI3Wb/view?usp=sharing)
 
 ## Demo :
 
