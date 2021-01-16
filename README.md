@@ -19,7 +19,7 @@
 
 ## Demo :
 
-> * [2D Mapping](https://drive.google.com/file/d/1yudVr1v6SSkGbeQNmc6vH3MksN7I7tfr/view?usp=sharing)
+> * [2D Mapping](https://drive.google.com/file/d/1EPSviJWYhFz1OgGaRr1TDBjUgJc5f9J8/view?usp=sharing)
 > * [3D Mapping](https://drive.google.com/file/d/1FI-Z8X2QCpnJtaxZfBwpJiBw6FrsSPsv/view?usp=sharing)
 
  ## FAQ
