@@ -1,5 +1,4 @@
-![g](https://drive.google.com/file/d/1A6OFR4uvIXJW1bOay3sb0UK7kaJEI3Wb/view?usp=sharing)
-
+![](https://drive.google.com/file/d/1LWp_rVuMxzUJH_ktsICXolQ81RMAvLxj/view?usp=sharing)
 
 # Live Trajectory Mapping
 
