@@ -1,5 +1,5 @@
-![h](https://drive.google.com/file/d/1LWp_rVuMxzUJH_ktsICXolQ81RMAvLxj/view?usp=sharing)
-
+![](https://drive.google.com/file/d/1LWp_rVuMxzUJH_ktsICXolQ81RMAvLxj/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1LWp_rVuMxzUJH_ktsICXolQ81RMAvLxj)
 # Live Trajectory Mapping
 
 ## AIM :
