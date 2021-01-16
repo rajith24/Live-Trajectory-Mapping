@@ -15,6 +15,7 @@
 
 ## Image Snippets :
 ![image](https://drive.google.com/uc?export=view&id=1A6OFR4uvIXJW1bOay3sb0UK7kaJEI3Wb)
+> * The above image shows that the live 3D mapping of the vehicle environment is being mapped in octomapping from the LIDAR Sensor data.
 > * [2D Mapping](https://drive.google.com/file/d/1LWp_rVuMxzUJH_ktsICXolQ81RMAvLxj/view?usp=sharing)
 > * [3D Mapping](https://drive.google.com/file/d/1A6OFR4uvIXJW1bOay3sb0UK7kaJEI3Wb/view?usp=sharing)
 
